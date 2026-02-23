@@ -11,6 +11,16 @@ The goal is to maintain a **well-organized, version-controlled, and easily acces
 
 ---
 
+## 📍 Quick Navigation
+- [📂 Repository Structure](#-repository-structure)
+- [📌 Naming Conventions](#-naming-convention)
+- [🚀 How to Contribute](#-how-to-contribute)
+- [🏆 Wall of Fame](#-wall-of-fame)
+- [🎯 Objective](#-objective)
+
+---
+
+
 ## 📂 Repository Structure
 
 - [1st Year BTech](./1st%20year%20BTech/)
@@ -25,16 +35,6 @@ Program
     └── Academic-Year
        └── Exam Files (PDFs)
 ```
-
----
-
-## 📍 Quick Navigation
-- [📂 Repository Structure](#-repository-structure)
-- [📌 Naming Conventions](#-naming-convention)
-- [🚀 How to Contribute](#-how-to-contribute)
-- [🏆 Wall of Fame](#-wall-of-fame)
-- [🎯 Objective](#-objective)
-
 ---
 
 ## 📌 Naming Convention
